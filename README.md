@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+
+# About Project
+It is a React Shopping Cart App made with the help of context API for state management.
+- You can add items from home to cart and also delete them accordingly
+- Live Product Price calculation happens due to `useContext()` hook
 
 ## Available Scripts
 
