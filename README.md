@@ -7,6 +7,8 @@ It is a React Shopping Cart App made with the help of context API for state mana
 - You can add items from home to cart and also delete them accordingly
 - Live Product Price calculation happens due to `useContext()` hook
 
+## [All the dataset has been fetched through faker.js]
+
 ## Available Scripts
 
 In the project directory, you can run:
